@@ -7,7 +7,7 @@
 
 <p align="left"> 
  <a href="https://twitter.com/sgenius_01" target="blank">
-<img src="https://img.shields.io/twitter/follow/https://twitter.com/sgenius_01?logo=twitter&style=for-the-badge" alt="sgenius_01" /></a> </p>
+<img src="https://img.shields.io/twitter/follow/sgenius_01?logo=twitter&style=for-the-badge" alt="sgenius_01" /></a> </p>
 
 - 🌱 I’m currently learning : **React Native**
 
