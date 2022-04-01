@@ -39,3 +39,5 @@
  [![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=11)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Salaheddine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SalaheddineOBT)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github.com/anuraghazra/github-readme-stats)
