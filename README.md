@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px">
+
+![JSGandalf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borrus-sudo&show_icons=true&theme=dracula&count_private=true)
+<br/>
+![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Borrus-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack,Zeus&theme=dracula)
+
