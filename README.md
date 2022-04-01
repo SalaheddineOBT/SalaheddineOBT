@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey I am TSGandalf, pleased to meet you!
+Hey I am Salaheddine Oulad Ben Taib, pleased to meet you!
 
 ![JSGandalf's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalaheddineOBT&show_icons=true&theme=dracula&count_private=true)
 
