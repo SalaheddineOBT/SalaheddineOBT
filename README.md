@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salaheddineobt&" alt="salaheddineobt" /></p>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)
