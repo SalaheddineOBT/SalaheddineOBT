@@ -42,7 +42,8 @@
  </p>
 </div>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)
- 
-<h2>Contact Me :</h2>
+  <div align="center">
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)
+ </div>
+
 <a href="mailto:Salaheddine.ouladbentaib@gmail.com">![Salaheddine.ouladbentaib@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
