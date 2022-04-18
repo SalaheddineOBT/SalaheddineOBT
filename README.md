@@ -36,9 +36,16 @@
  
  </div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salaheddineobt&" alt="salaheddineobt" /></p>
+<div align="center">
+ <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salaheddineobt&" alt="salaheddineobt" />
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)
+ </p>
+</div>
+ 
+
 
 <a href="mailto:Salaheddine.ouladbentaib@gmail.com">![Salaheddine.ouladbentaib@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
