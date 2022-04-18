@@ -43,3 +43,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)
 
 <a href="mailto:Salaheddine.ouladbentaib@gmail.com">![Salaheddine.ouladbentaib@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://github.com/salaheddineobt/PyCalendly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=PyCalendly" alt="GitHub Stats" />
+    </a>
