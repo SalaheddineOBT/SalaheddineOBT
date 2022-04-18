@@ -32,9 +32,9 @@
 
 <div align="center">
  
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salaheddineobt&show_icons=true&locale=en&layout=compact" alt="salaheddineobt" /></p>
+ <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salaheddineobt&show_icons=true&locale=en&layout=compact" alt="salaheddineobt" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salaheddineobt&show_icons=true&locale=en" alt="salaheddineobt" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salaheddineobt&show_icons=true&locale=en" alt="salaheddineobt" /></p>
  
  </div>
 
