@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salaheddine Oulad Ben Taib </h1> 
 <h3 align="center">A Full Stack Web & Mobile Developer From Morocco - Tangier . <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=salaheddineobt&label=Profile%20views&color=0e75b6&style=flat" alt="salaheddineobt" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalaheddineOBT&theme=chalk" alt="salaheddineobt" /></a> </p>
 <div id="badges"  align="center">
