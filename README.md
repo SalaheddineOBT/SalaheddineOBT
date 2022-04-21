@@ -68,4 +68,7 @@
  <a href="mailto:Salaheddine.ouladbentaib@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
  </a>
+ <a href="https://www.facebook.com/profile.php?id=100039780558863">
+  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+ </a>
 </div>
