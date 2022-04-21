@@ -65,5 +65,7 @@
   <a href="https://twitter.com/sgenius_01">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <a href="mailto:Salaheddine.ouladbentaib@gmail.com">![Salaheddine.ouladbentaib@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+ <a href="mailto:Salaheddine.ouladbentaib@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ </a>
 </div>
