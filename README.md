@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salaheddine Oulad Ben Taib </h1> 
 <h3 align="center">A Full Stack Web & Mobile Developer From Morocco - Tangier . <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalaheddineOBT&theme=chalk" alt="salaheddineobt" /></a> </p>
-<div id="badges"  align="center">
     
     
 ![](https://komarev.com/ghpvc/?username=salaheddineobt)
@@ -11,10 +8,12 @@
     <img src="https://img.shields.io/github/stars/salaheddineobt?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
     
   </div>
-
-<p align="center"> 
- <a href="https://twitter.com/sgenius_01" target="blank">
-<img src="https://img.shields.io/twitter/follow/sgenius_01?logo=twitter&style=for-the-badge" alt="sgenius_01" /></a> </p>
+  
+  <div align="center">
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salaheddineobt&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/Ahmed-dev-dragon) 
+  <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=salaheddineobt&show_icons=true&theme=gotham&count_private=true">
+</div>
 
 - 🌱 I’m currently learning : **React Native**
 
