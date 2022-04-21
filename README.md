@@ -49,7 +49,7 @@
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)
 
-<a href="mailto:Salaheddine.ouladbentaib@gmail.com">![Salaheddine.ouladbentaib@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 
 <div id="badges"  align="center">
   <a href="https://ma.linkedin.com/in/salaheddine-oulad-ben-taib">
@@ -65,4 +65,5 @@
   <a href="https://twitter.com/sgenius_01">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+ <a href="mailto:Salaheddine.ouladbentaib@gmail.com">![Salaheddine.ouladbentaib@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </div>
