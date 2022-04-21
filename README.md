@@ -4,6 +4,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salaheddineobt&label=Profile%20views&color=0e75b6&style=flat" alt="salaheddineobt" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalaheddineOBT&theme=chalk" alt="salaheddineobt" /></a> </p>
+<div id="badges"  align="center">
+    
+    
+![](https://komarev.com/ghpvc/?username=Ahmed-dev-dragon)
+    <img  src="https://img.shields.io/github/followers/salaheddineobt?label=Follow" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/github/stars/salaheddineobt?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
+    
+  </div>
 
 <p align="center"> 
  <a href="https://twitter.com/sgenius_01" target="blank">
