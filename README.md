@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salaheddineobt&column=7&theme=onedark" />
+  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=salaheddineobt&column=7&theme=onedark" /></p>
 </div>
 <br>
 
