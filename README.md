@@ -15,6 +15,11 @@
   <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=salaheddineobt&show_icons=true&theme=gotham&count_private=true">
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salaheddineobt&column=7&theme=onedark" />
+</div>
+<br>
+
 - 🌱 I’m currently learning : **React Native**
 
 - 👨‍💻 All of my projects are available at [https://sgenius01.github.io/My-First-PortFolio/html/index.html](https://sgenius01.github.io/My-First-PortFolio/html/index.html)
