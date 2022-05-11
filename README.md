@@ -28,7 +28,7 @@
 
 - 📫 How to reach me : **Salaheddine.ouladbentaib@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aKfCtxC_N4B_pVXF5GWjOSJJ37gjn8tT/view](https://drive.google.com/file/d/1aKfCtxC_N4B_pVXF5GWjOSJJ37gjn8tT/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing](https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing)
 
 
 <h3 align="center">Languages and Tools:</h3>
