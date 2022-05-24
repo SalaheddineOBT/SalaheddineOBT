@@ -42,10 +42,6 @@
 </div>
 
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)](https://github-readme-stats.vercel.app/api/pin/?username=salaheddineobt&repo=Login-Register-CRUD-With-Kotlin-and-PHP-MySQL)
-
-
-
 <div id="badges"  align="center">
   <a href="https://ma.linkedin.com/in/salaheddine-oulad-ben-taib">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
