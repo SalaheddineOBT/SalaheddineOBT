@@ -75,7 +75,3 @@
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
  </a>
 </div>
-<script src="javascripts/responsive-table.js"></script>
-<script>
-  var myTable = new ResponsiveTable('#my-table', 'list', '600px');
-</script>
