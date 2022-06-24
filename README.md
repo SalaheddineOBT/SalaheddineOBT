@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salaheddine Oulad Ben Taib </h1> 
 <h3 align="center">A Full Stack Web & Mobile Developer. <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
 
+<img src="https://i.postimg.cc/TwydKZ5D/PROGRAMMER.png" align="center" alt="profile">
+
  <div align="center">
     
 ![](https://komarev.com/ghpvc/?username=salaheddineobt)
@@ -46,9 +48,6 @@
 
   <a href="https://www.instagram.com/_salaheddine01/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <a href="https://github.com/salaheddineobt/">
-    <img src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://twitter.com/sgenius_01">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
