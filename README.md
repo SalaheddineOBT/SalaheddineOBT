@@ -3,7 +3,7 @@
 
 <img src="https://i.postimg.cc/pVFXQhq5/PROGRAMMER-1.png" align="center" alt="profile">
 |Languages and Tools|
-|:-----------------------------------------------:|
+|:------:|
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
