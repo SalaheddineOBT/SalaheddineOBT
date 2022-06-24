@@ -2,7 +2,23 @@
 <h3 align="center">A Full Stack Web & Mobile Developer. <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
 
 <img src="https://i.postimg.cc/pVFXQhq5/PROGRAMMER-1.png" align="center" alt="profile">
-
+<table id="unique-table-id">
+  <caption>Table Caption</caption>
+  <thead>
+    <tr>
+      <th scope="col">Heading 1</th>
+      <th scope="col">Heading 2</th>
+      <th scope="col">Heading 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cell 1</td>
+      <td>Cell 2</td>
+      <td>Cell 3</td>
+    </tr>
+  </tbody>
+</table>
  <div align="center">
     
 ![](https://komarev.com/ghpvc/?username=salaheddineobt)
@@ -59,3 +75,7 @@
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
  </a>
 </div>
+<script src="javascripts/responsive-table.js"></script>
+<script>
+  var myTable = new ResponsiveTable('#my-table', 'list', '600px');
+</script>
