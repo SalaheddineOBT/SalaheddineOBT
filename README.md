@@ -2,22 +2,13 @@
 <h3 align="center">A Full Stack Web & Mobile Developer. <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
 
 <img src="https://i.postimg.cc/pVFXQhq5/PROGRAMMER-1.png" align="center" alt="profile">
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th scope="col">Heading 1</th>
-      <th scope="col">Heading 2</th>
-      <th scope="col">Heading 3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Cell 1</td>
-      <td>Cell 2</td>
-      <td>Cell 3</td>
-    </tr>
-  </tbody>
-</table>
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
  <div align="center">
     
 ![](https://komarev.com/ghpvc/?username=salaheddineobt)
