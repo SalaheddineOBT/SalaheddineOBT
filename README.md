@@ -31,9 +31,9 @@
 <br>
 
 
-- 👨‍💻 See My Portfolio [https://sgenius01.github.io/My-First-PortFolio/html/index.html](https://sgenius01.github.io/My-First-PortFolio/html/index.html)
+- 👨‍💻 <a href="https://sgenius01.github.io/My-First-PortFolio/html/index.html">See My Portfolio</a>
 
-- 📫 How to reach me : **Salaheddine.ouladbentaib@gmail.com**
+- 📫 <a href="mailto:Salaheddine.ouladbentaib@gmail.com">How to reach me</a>
 
 - 📄 <a href="https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing" target="_blank">See My Resume</a>
 
