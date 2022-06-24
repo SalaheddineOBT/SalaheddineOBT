@@ -9,8 +9,7 @@
     <img  src="https://img.shields.io/github/followers/salaheddineobt?label=Follow" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/github/stars/salaheddineobt?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
     
-  </div><br /><br />
-  
+  </div><br />a__
   <div align="center">
  
  | Tools  | Languages  | Frameworks | Technologies |
