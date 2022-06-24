@@ -35,7 +35,7 @@
 
 - 📫 How to reach me : **Salaheddine.ouladbentaib@gmail.com**
 
-- 📄 See My Resume [https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing](https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing)
+- 📄 <a href="https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing" target="_blank">See My Resume</a>
 
 <div align="center">
  <p align="center">
