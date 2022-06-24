@@ -2,8 +2,7 @@
 <h3 align="center">A Full Stack Web & Mobile Developer. <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
 
 <img src="https://i.postimg.cc/pVFXQhq5/PROGRAMMER-1.png" align="center" alt="profile">
-<table id="unique-table-id">
-  <caption>Table Caption</caption>
+<table align="center" width="100%">
   <thead>
     <tr>
       <th scope="col">Heading 1</th>
