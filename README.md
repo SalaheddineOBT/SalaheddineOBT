@@ -20,15 +20,12 @@
 </div>
 <br>
 
-- 🌱 I’m currently learning : **React Native**
 
-- 👨‍💻 All of my projects are available at [https://sgenius01.github.io/My-First-PortFolio/html/index.html](https://sgenius01.github.io/My-First-PortFolio/html/index.html)
-
-- 💬 Ask me about : **C#, JavaScript, React.js, Java, Kotlin**
+- 👨‍💻 See My Portfolio [https://sgenius01.github.io/My-First-PortFolio/html/index.html](https://sgenius01.github.io/My-First-PortFolio/html/index.html)
 
 - 📫 How to reach me : **Salaheddine.ouladbentaib@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing](https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing)
+- 📄 See My Resume [https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing](https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing)
 
 
 <h3 align="center">Languages and Tools:</h3>
