@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salaheddine Oulad Ben Taib </h1> 
 <h3 align="center">A Full Stack Web & Mobile Developer. <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
 <br />
-<img src="https://i.postimg.cc/pVFXQhq5/PROGRAMMER-1.png" align="center" alt="profile">
-
-<br />
  <div align="center">
     
 ![](https://komarev.com/ghpvc/?username=salaheddineobt)
