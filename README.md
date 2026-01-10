@@ -28,9 +28,8 @@
 <br>-->
 
 <div align="center">
- 👨‍💻 <a href="https://sgenius01.github.io/My-First-PortFolio/html/index.html">See My Portfolio</a><span>&nbsp;&nbsp;&nbsp;</span> 📫 <a href="mailto:Salaheddine.ouladbentaib@gmail.com">How to reach me</a><span>&nbsp;&nbsp;&nbsp;</span> 📄 <a href="https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing" target="_blank">See My Resume</a>
-</div><br />
-
+ 👨‍💻 <a href="https://sgenius01.github.io/My-First-PortFolio/html/index.html">See My Portfolio</a><span>&nbsp;&nbsp;&nbsp;</span> <!--📫 <a href="mailto:Salaheddine.ouladbentaib@gmail.com">How to reach me</a><span>&nbsp;&nbsp;&nbsp;</span> 📄 <a href="https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing" target="_blank">See My Resume</a>-->
+</div><!--<br />
 <div align="center">
  <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salaheddineobt&" alt="salaheddineobt" />
@@ -41,7 +40,6 @@
   <a href="https://ma.linkedin.com/in/salaheddine-oulad-ben-taib">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
   <a href="https://www.instagram.com/_salaheddine01/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -54,4 +52,4 @@
  <a href="https://www.facebook.com/profile.php?id=100039780558863">
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
  </a>
-</div>
+</div>-->
