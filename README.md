@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Salaheddine Oulad Ben Taib </h1> 
-<h3 align="center">A Full Stack Web & Mobile Developer. <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
+<h1 align="center">Hi 👋, I'm Salah Eddine </h1> 
+<h3 align="center">A Full Stack Developer. <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
 <br />
  <div align="center">
     
@@ -16,16 +16,16 @@
 
 </div><br />
   
-  <div align="center">
+ <!-- <div align="center">
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salaheddineobt&layout=compact&hide=html,hack,css&theme=gotham)](salaheddineobt) 
   <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=salaheddineobt&show_icons=true&theme=gotham&count_private=true">
-</div>
+</div> -->
 
-<div align="center">
+<!--<div align="center">
   <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=salaheddineobt&column=7&theme=onedark" /></p>
 </div>
-<br>
+<br>-->
 
 <div align="center">
  👨‍💻 <a href="https://sgenius01.github.io/My-First-PortFolio/html/index.html">See My Portfolio</a><span>&nbsp;&nbsp;&nbsp;</span> 📫 <a href="mailto:Salaheddine.ouladbentaib@gmail.com">How to reach me</a><span>&nbsp;&nbsp;&nbsp;</span> 📄 <a href="https://drive.google.com/file/d/1-q3bHGHLyUFBMYa90eqS2x3E8jBVfp70/view?usp=sharing" target="_blank">See My Resume</a>
