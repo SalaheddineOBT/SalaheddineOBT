@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Salah Eddine </h1> 
 <h3 align="center">A Full Stack Developer. <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px"></h3>
 <br />
- <div align="center">
+ <!--<div align="center">
     
 ![](https://komarev.com/ghpvc/?username=salaheddineobt)
     <img  src="https://img.shields.io/github/followers/salaheddineobt?label=Follow" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/github/stars/salaheddineobt?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
     
-  </div><br />
+  </div><br />-->
   <div align="center">
  
  | Tools  | Languages  | Frameworks | Technologies |
